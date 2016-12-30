@@ -1,0 +1,16 @@
+/*
+ Theme Name:   The Box Child
+ Theme URI:    http://design.altervista.org/thebox/
+ Description:  The Box Child Theme
+ Author:       Design Lab
+ Author URI:   http://design.altervista.org
+ Template:     the-box
+ Version:      1.0.0
+ Tags:         light, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready
+ Text Domain:  the-box-child
+*/
+
+@import url("../the-box/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
