@@ -23,7 +23,7 @@ small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
-	font-family: Arial;
+	font-family: 'Open Sans', Tahoma;
 
 
 }
@@ -31,6 +31,33 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 p {
 	font-size: 1.2em;
 }
+
+.obal-clanku {
+		max-width: 1100px ;
+		width: 90% ;
+		margin: auto;
+}
+
+.obal-paru{
+	margin-bottom: 80px;
+	max-width: 1170px;
+	vertical-align: middle;
+}
+
+.par-levy{
+	max-width: 500px;
+	float:left;
+	text-align: right;
+	padding-right: 15px;
+}
+
+.par-pravy{
+	max-width: 500px;
+	float:left;
+	padding-left: 15px;
+}
+
+
 
 #top-section .welcome-detail {
 
@@ -41,6 +68,8 @@ p {
 		height: 0 !important;
 		padding-bottom: 30% !important;
 }
+
+
 
 .bx-wrapper .bx-viewport {
 		position: absolute !important;
