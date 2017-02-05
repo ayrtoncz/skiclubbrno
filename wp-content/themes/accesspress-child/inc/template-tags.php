@@ -82,8 +82,8 @@ function accesspresslite_posted_on() {
 		esc_html( get_the_modified_date() )
 	);
 
-	printf( __( '<span class="posted-on">%1$s</span>', 'accesspresslite' ), //<span class="byline"> by %2$s</span>
-		sprintf( '%2$s', //<a href="%1$s" rel="bookmark"></a>
+	printf( __( '<span class="posted-on">%1$s</span><span class="byline"> by %2$s</span>', 'accesspresslite' ),
+		sprintf( '<a href="%1$s" rel="bookmark">%2$s</a>',
 			esc_url( get_permalink() ),
 			$time_string
 		),

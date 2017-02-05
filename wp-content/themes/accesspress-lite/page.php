@@ -10,7 +10,7 @@
  * @package AccesspressLite
  */
 
-get_header(); 
+get_header();
 global $post;
 if(is_front_page()){
 	$post_id = get_option('page_on_front');
@@ -22,9 +22,9 @@ $post_class = get_post_meta( $post_id, 'accesspresslite_sidebar_layout', true );
 
 <div class="ak-container">
 
-<?php 
+<?php
 	if ($post_class=='both-sidebar') { ?>
-		<div id="primary-wrap" class="clearfix"> 
+		<div id="primary-wrap" class="clearfix">
 	<?php }
 ?>
 	<div id="primary" class="content-area">
@@ -46,11 +46,11 @@ $post_class = get_post_meta( $post_id, 'accesspresslite_sidebar_layout', true );
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
-<?php 
-get_sidebar('left'); 
+<?php
+get_sidebar('left');
 
 	if ($post_class=='both-sidebar') { ?>
-		</div> 
+		</div>
 	<?php }
 
 get_sidebar('right'); ?>
