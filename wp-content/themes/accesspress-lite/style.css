@@ -492,7 +492,7 @@ a:active {
 /*--------------------------------------------------------------
 Posts and pages
 --------------------------------------------------------------*/
-h1.entry-title{ 
+h1.entry-title{
 	color: #666;
 }
 h1.entry-title a{
@@ -657,7 +657,7 @@ Asides
 	width: 120px;
 	display: inline-block;
 }
-textarea#comment{ 
+textarea#comment{
 	width: 60%;
 	height: 150px;
 }
@@ -719,7 +719,7 @@ textarea#comment{
 	display: none;
 }
 
-.commentmetadata{ 
+.commentmetadata{
 	float: right;
 	font-family: 'Lato', sans-serif;
 	font-weight: normal;
@@ -863,11 +863,11 @@ Header
 }
 
 body.boxed-layout{
-    background: #F2F3F4;    
+    background: #F2F3F4;
 }
 
-.boxed-layout #page{ 
-	margin: 0 auto; 
+.boxed-layout #page{
+	margin: 0 auto;
     background: #FFF;
     width:1200px;
     box-shadow: 0 0 12px #999;
@@ -875,16 +875,16 @@ body.boxed-layout{
 
 .boxed-layout .ak-container{
     width:1200px;
-    padding:0 15px; 
+    padding:0 15px;
 }
 
-.ak-container{ 
-	width:1170px; 
+.ak-container{
+	width:1170px;
 	margin: 0 auto;
 }
 
-#masthead .site-branding{ 
-	float: left; 
+#masthead .site-branding{
+	float: left;
 	padding: 15px 0;
 }
 
@@ -964,12 +964,12 @@ search form
 
 .searchform{
 	height: 36px;
-	width: 200px; 
+	width: 200px;
 	border: 1px solid #01aefd;
     margin-left: 20px;
 }
 
-.searchform .s{ 
+.searchform .s{
 	border: none;
 	background: none;
 	height: 34px;
@@ -1162,7 +1162,7 @@ Menus
 /*--------------------------------------------------------------
 Slider
 --------------------------------------------------------------*/
-#slider-banner{ 
+#slider-banner{
 	overflow: hidden;
 	background: #111;
 }
@@ -1171,14 +1171,14 @@ Slider
 /*--------------------------------------------------------------
 Top Section
 --------------------------------------------------------------*/
-#top-section{ 
-	margin-top: 30px; 
+#top-section{
+	margin-top: 30px;
 	margin-bottom: 40px;
 	padding-bottom: 40px;
 	border-bottom:1px solid #f2f2f2;
 }
 
-#top-section h1{ 
+#top-section h1{
 	text-transform: uppercase;
 	margin-bottom: 25px;
 }
@@ -1216,8 +1216,8 @@ Top Section
     float:none;
 }
 
-#welcome-text{ 
-	width: 625px; 
+#welcome-text{
+	width: 625px;
 	float: left;
 }
 
@@ -1291,7 +1291,7 @@ Top Section
 
 .event-detail h4{
 	line-height: 1.2;
-	font-family: 'Open Sans', sans-serif; 
+	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 5px;
 }
 
@@ -1346,7 +1346,7 @@ Mid Section
 	margin-bottom:50px;
 }
 
-.featured-post{ 
+.featured-post{
 	float: left;
 	width: 350px;
 	margin-right: 60px
@@ -1356,14 +1356,14 @@ Mid Section
 	margin-right: 0
 }
 
-.featured-post .featured-image{ 
+.featured-post .featured-image{
 	overflow: hidden;
 	position: relative;
 	margin-bottom: 20px;
 	text-align: center;
 }
 
-.featured-post .featured-image img{ 
+.featured-post .featured-image img{
 	display: block;
     margin: 0 auto;
 }
@@ -1385,10 +1385,10 @@ Mid Section
 	color:#666;
 }
 
-.featured-post p{ 
+.featured-post p{
 	margin-bottom: 15px
 }
-.featured-post.big-icon{ 
+.featured-post.big-icon{
     text-align: center;
     }
 
@@ -1458,7 +1458,7 @@ Mid Section
 /*--------------------------------------------------------------
 Bottom Section
 --------------------------------------------------------------*/
-#bottom-section{ 
+#bottom-section{
 	background:#0097d6;
 	color: #FFF;
 	padding: 40px 0;
@@ -1469,9 +1469,9 @@ Bottom Section
 }
 
 #bottom-section h3,
-#bottom-section h3.widget-title{ 
-	text-transform: uppercase; 
-	line-height: 1; 
+#bottom-section h3.widget-title{
+	text-transform: uppercase;
+	line-height: 1;
 	margin-bottom: 25px;
     color:#FFF;
     font-size: 26px;
@@ -1539,9 +1539,9 @@ Bottom Section
 }
 
 #bottom-section .text-box ul li:before{
-   content: "\f00c"; 
+   content: "\f00c";
    font-family: FontAwesome;
-   margin-right: 10px; 
+   margin-right: 10px;
    position: absolute;
    left: 0;
    top:2px;
@@ -1554,7 +1554,7 @@ testimonial
 	overflow: hidden;
 }
 
-.testimonial-wrap{ 
+.testimonial-wrap{
 	background: #00b4ff;
 	padding: 10px;
 	position: relative;
@@ -1567,7 +1567,7 @@ testimonial
 	border-color: #00b4ff transparent transparent;
 	position: absolute;
 	left: 50px;
-	bottom: -20px; 
+	bottom: -20px;
 }
 
 .testimonial-thumbnail{
@@ -1576,13 +1576,13 @@ testimonial
 }
 
 .testimonial-excerpt{
-	width: 225px; 
+	width: 225px;
 	float: right;
 	line-height: 20px;
 	font-size: 14px;
 }
 
-.testimoinal-client-name{ 
+.testimoinal-client-name{
 	position: absolute;
 	top: 100%;
 	left: 10px;
@@ -1662,7 +1662,7 @@ testimonial
 /*--------------------------------------------------------------
 Footer
 --------------------------------------------------------------*/
-#colophon{ 
+#colophon{
 	background: #353f47;
 }
 
@@ -1674,10 +1674,10 @@ Footer
     color:#F9F9F9;
 }
 
-#top-footer{ 
+#top-footer{
 	font-size: 14px;
-	background:#353f47; 
-	padding: 40px 0; 
+	background:#353f47;
+	padding: 40px 0;
 	color: #CCC;
 }
 
@@ -1697,12 +1697,12 @@ Footer
 	border-bottom: none;
 }
 
-#top-footer .sub-menu{ 
+#top-footer .sub-menu{
 	display: none;
 }
 
-#top-footer .footer{ 
-	width: 25%; 
+#top-footer .footer{
+	width: 25%;
 	float: left;
 }
 
@@ -1752,7 +1752,7 @@ Footer
 	border:1px solid #01AEFD;
 }
 
-#bottom-footer{ 
+#bottom-footer{
 	background: #293037;
 	padding: 15px 0;
 	text-transform: uppercase;
@@ -2016,7 +2016,7 @@ Archives
 .cat-testimonial-list .cat-testimonial-excerpt:before{
 	content: "";
 	border-width: 20px;
-	border-color: transparent #F2F3F4 transparent transparent; 
+	border-color: transparent #F2F3F4 transparent transparent;
 	left: -40px;
 	top: 20px;
 	border-style: solid;
@@ -2026,7 +2026,7 @@ Archives
 .cat-testimonial-list:nth-child(odd) .cat-testimonial-excerpt:before{
 	left: auto;
 	right: -40px;
-	border-color: transparent transparent transparent #F2F3F4 ; 
+	border-color: transparent transparent transparent #F2F3F4 ;
 }
 
 .entry-thumbnail{
@@ -2204,11 +2204,11 @@ Footer form
 #top-footer .wpcf7-form p{
     margin-bottom: 6px;
 }
-#top-footer input[type="text"], 
-#top-footer input[type="email"], 
-#top-footer input[type="url"], 
-#top-footer input[type="password"], 
-#top-footer input[type="search"], 
+#top-footer input[type="text"],
+#top-footer input[type="email"],
+#top-footer input[type="url"],
+#top-footer input[type="password"],
+#top-footer input[type="search"],
 #top-footer input[type="tel"] {
     border: 1px solid #CCCCCC;
     color: #666666;
@@ -2217,7 +2217,7 @@ Footer form
     width:100%;
     color:#CCC;
     border-radius:0;
-    
+
 }
 
 #top-footer textarea{
@@ -2367,8 +2367,8 @@ RTL CSS
 	float: left;
 }
 
-.rtl .comment-navigation .nav-previous, 
-.rtl .paging-navigation .nav-previous, 
+.rtl .comment-navigation .nav-previous,
+.rtl .paging-navigation .nav-previous,
 .rtl .post-navigation .nav-previous{
 	text-align: left;
 }
@@ -2419,23 +2419,23 @@ Responsive grid for pages
 
 .span1{
   width: 14.1666666667%;
-  
+
 }
 .span2{
   width: 31.3333333333%;
-  
+
 }
 .span3{
   width: 48.5%;
-  
+
 }
 .span4{
   width: 65.6666666667%;
-  
+
 }
 .span5{
   width: 82.8333333333%;
-  
+
 }
 .span6{
   width: 100%;
